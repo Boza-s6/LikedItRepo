@@ -6,3 +6,6 @@ The links I liked. Checkout https://github.com/Idnan/like-on-git
 
 ### August 9, 2016
 - [multithreading - C++11 introduced a standardized memory model. What does it mean? And how is it going to affect C++ programming? - Stack Overflow](https://stackoverflow.com/questions/6319146/c11-introduced-a-standardized-memory-model-what-does-it-mean-and-how-is-it-g) 
+
+### August 13, 2016
+- [Memory Ordering at Compile Time](http://preshing.com/20120625/memory-ordering-at-compile-time/) 
