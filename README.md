@@ -10,3 +10,6 @@ The links I liked. Checkout https://github.com/Idnan/like-on-git
 ### August 13, 2016
 - [Memory Ordering at Compile Time](http://preshing.com/20120625/memory-ordering-at-compile-time/) 
 - [Memory Reordering Caught in the Act](http://preshing.com/20120515/memory-reordering-caught-in-the-act/) 
+
+### August 14, 2016
+- [The Happens-Before Relation](http://preshing.com/20130702/the-happens-before-relation/) 
