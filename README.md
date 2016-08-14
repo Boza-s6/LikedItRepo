@@ -13,3 +13,4 @@ The links I liked. Checkout https://github.com/Idnan/like-on-git
 
 ### August 14, 2016
 - [The Happens-Before Relation](http://preshing.com/20130702/the-happens-before-relation/) 
+- [Effective Java - Still Effective After All These Years - YouTube](https://www.youtube.com/watch?v=V1vQf4qyMXg) 
