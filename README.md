@@ -15,3 +15,4 @@ The links I liked. Checkout https://github.com/Idnan/like-on-git
 - [The Happens-Before Relation](http://preshing.com/20130702/the-happens-before-relation/) 
 - [Effective Java - Still Effective After All These Years - YouTube](https://www.youtube.com/watch?v=V1vQf4qyMXg) 
 - [Extending Guava Caches to Overflow to Disk - DZone Java](https://dzone.com/articles/extending-guava-caches) 
+- [PowerPoint Presentation](http://javaspecialists.eu/talks/jfokus13/PhaserAndStampedLock.pdf) 
