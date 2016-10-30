@@ -16,3 +16,6 @@ The links I liked. Checkout https://github.com/Idnan/like-on-git
 - [Effective Java - Still Effective After All These Years - YouTube](https://www.youtube.com/watch?v=V1vQf4qyMXg) 
 - [Extending Guava Caches to Overflow to Disk - DZone Java](https://dzone.com/articles/extending-guava-caches) 
 - [PowerPoint Presentation](http://javaspecialists.eu/talks/jfokus13/PhaserAndStampedLock.pdf) 
+
+### October 30, 2016
+- [Building a RecyclerView LayoutManager – Part 1 | Wires Are Obsolete](http://wiresareobsolete.com/2014/09/building-a-recyclerview-layoutmanager-part-1/) 
